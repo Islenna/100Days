@@ -6,3 +6,5 @@ Started a new project, based loosely on QI's format, in this we'll try to learn 
 
 10/5:
 More work on PackPacker, quantity adjustments for Procedures / Instruments.
+
+10/6: Started a new project! First time really messing with: Angular, Animations, SASS! 
